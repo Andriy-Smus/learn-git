@@ -51,3 +51,9 @@ table {
     text-align: center;
     margin-top: 20px;
 }
+.block-one {
+	height: 30px;
+	width: 500px;
+	background-color: rgb(118, 241, 47);
+	margin: 30px auto;
+}
